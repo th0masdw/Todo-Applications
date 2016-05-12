@@ -1,0 +1,16 @@
+<Alloy>
+	<Collection src="tasks"/>
+    <Window class="container">
+        <!-- Add TableView and  TableViewRow -->
+        <TableView dataCollection="tasks">
+            <TableViewRow name="{name}" owner="{owner}"></TableViewRow>
+        </TableView>
+        <Menu id="menu" platform="android">
+		    <!-- Cannot specify node text.  Use attributes only. -->
+		    <MenuItem id="addTask"
+		        title="Add task"
+		        onClick="addTask"
+		        showAsAction="Ti.Android.SHOW_AS_ACTION_IF_ROOM" />
+		</Menu>
+    </Window>
+</Alloy>

@@ -1,0 +1,51 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <title></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" type="text/css" href="todo.css"/>
+	<link rel="stylesheet" href="lib/jquery.mobile-1.4.5.min.css" />
+	<script src="lib/jquery-1.11.1.min.js"></script>
+	<script src="lib/jquery.mobile-1.4.5.min.js"></script>
+    <script type="text/javascript" src="todo.js"></script>
+    <meta charset="utf-8"/>
+</head>
+<body>
+    <!-- Home page -->
+    <div data-role="page" id="home">
+    	<div data-role="header">
+    		<h1>Todo app</h1>
+    	</div>
+    	<div data-role="main">
+            <a data-role="button" id="add" data-icon="plus">Add</a>
+
+            <ol data-role="listview" id="tasks"></ol>
+    	</div>
+    </div>
+
+    <!-- New todo page -->
+    <div data-role="page" id="newTask">
+        <div data-role="header">
+            <a href="#home" data-icon="back">Home</a>
+            <h1>New task</h1>
+        </div>
+        <div data-role="main" class="ui-content">
+            <input type="text" id="task" placeholder="Task..." />
+            <a data-role="button" id="submit" data-icon="plus">Submit</a>
+        </div>
+    </div>
+
+    <!-- Remove todo page -->
+    <div data-role="page" id="removeTask">
+        <div data-role="header">
+            <h1>Are you sure?</h1>
+        </div>
+        <div data-role="main" class="ui-content">
+            <p id="removeTaskInput"></p>
+            <a data-role="button" id="remove" data-icon="minus">Remove</a>
+            <a data-role="button" id="cancel" data-icon="back">Cancel</a>
+        </div>
+    </div>
+</body>
+</html>

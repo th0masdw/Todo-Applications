@@ -1,0 +1,13 @@
+C:\Users\Administrator\Documents\School\Semester 6\Todo Applications\Xamarin\Android_Starter\TaskyAndroid\obj\Release\android\assets\TaskyAndroid.dll
+C:\Users\Administrator\Documents\School\Semester 6\Todo Applications\Xamarin\Android_Starter\TaskyAndroid\obj\Release\android\assets\Mono.Android.dll
+C:\Users\Administrator\Documents\School\Semester 6\Todo Applications\Xamarin\Android_Starter\TaskyAndroid\obj\Release\android\assets\mscorlib.dll
+C:\Users\Administrator\Documents\School\Semester 6\Todo Applications\Xamarin\Android_Starter\TaskyAndroid\obj\Release\android\assets\System.Core.dll
+C:\Users\Administrator\Documents\School\Semester 6\Todo Applications\Xamarin\Android_Starter\TaskyAndroid\obj\Release\android\assets\System.dll
+C:\Users\Administrator\Documents\School\Semester 6\Todo Applications\Xamarin\Android_Starter\TaskyAndroid\obj\Release\android\assets\System.Xml.dll
+C:\Users\Administrator\Documents\School\Semester 6\Todo Applications\Xamarin\Android_Starter\TaskyAndroid\obj\Release\android\assets\Tasky.Core.Anroid.dll
+C:\Users\Administrator\Documents\School\Semester 6\Todo Applications\Xamarin\Android_Starter\TaskyAndroid\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\Administrator\Documents\School\Semester 6\Todo Applications\Xamarin\Android_Starter\TaskyAndroid\obj\Release\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Administrator\Documents\School\Semester 6\Todo Applications\Xamarin\Android_Starter\TaskyAndroid\obj\Release\android\assets\Mono.Data.Sqlite.dll
+C:\Users\Administrator\Documents\School\Semester 6\Todo Applications\Xamarin\Android_Starter\TaskyAndroid\obj\Release\android\assets\System.Data.dll
+C:\Users\Administrator\Documents\School\Semester 6\Todo Applications\Xamarin\Android_Starter\TaskyAndroid\obj\Release\android\assets\System.Numerics.dll
+C:\Users\Administrator\Documents\School\Semester 6\Todo Applications\Xamarin\Android_Starter\TaskyAndroid\obj\Release\android\assets\System.Transactions.dll

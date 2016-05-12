@@ -1,0 +1,15 @@
+<Alloy>
+    <Collection src="tasks"/>
+    <NavigationWindow>
+        <Window class="container" title="My Tasks">
+            <TableView dataCollection="tasks" id="taskTable">
+                <TableViewRow name="{name}" owner="{owner}" onClick="showTask"></TableViewRow>
+            </TableView>
+            <Toolbar bottom="0">
+			    <Items>
+			        <Button id="add" title="Add task" onClick="addTask"/>
+			    </Items>
+			</Toolbar>
+        </Window>
+    </NavigationWindow>>
+</Alloy>

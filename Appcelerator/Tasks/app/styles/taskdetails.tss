@@ -1,0 +1,21 @@
+
+".container" : {
+  
+}
+
+".container[platform=ios]" : { 
+   backgroundColor: 'white' 
+}
+
+"#nameLabel": {
+    font: {
+        fontSize: '30'
+    },
+    left: '10'
+},
+"#ownerLabel": {
+    font: {
+        fontSize: '20'
+    },
+    left: '10'
+}
